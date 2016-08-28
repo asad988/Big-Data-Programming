@@ -1,0 +1,10 @@
+The	{"doc_count": 99146, "total_count": 499206, "Sum_Square": 3038008, "mean": 5.0350594073386725, "var": 5.289937400400326}
+brown	{"doc_count": 99105, "total_count": 501271, "Sum_Square": 3067539, "mean": 5.057978911255739, "var": 5.3692634395431575}
+dog	{"doc_count": 99104, "total_count": 499188, "Sum_Square": 3041508, "mean": 5.037011624152406, "var": 5.318576862312405}
+fox	{"doc_count": 99082, "total_count": 499712, "Sum_Square": 3046788, "mean": 5.043418582588159, "var": 5.314095529538221}
+jumped	{"doc_count": 99130, "total_count": 499331, "Sum_Square": 3041739, "mean": 5.03713305760113, "var": 5.3116343510034305}
+lazy	{"doc_count": 99069, "total_count": 499535, "Sum_Square": 3048179, "mean": 5.042293754857726, "var": 5.343516025872329}
+over	{"doc_count": 99129, "total_count": 499324, "Sum_Square": 3038462, "mean": 5.037113256463799, "var": 5.279085437454931}
+quick	{"doc_count": 99100, "total_count": 499488, "Sum_Square": 3044408, "mean": 5.040242179616549, "var": 5.316523856586166}
+sir	{"doc_count": 99038, "total_count": 500460, "Sum_Square": 3054874, "mean": 5.053211898463216, "var": 5.310522963863356}
+the	{"doc_count": 99122, "total_count": 499217, "Sum_Square": 3040831, "mean": 5.036389499808317, "var": 5.312440659734381}
